@@ -1,1 +1,1 @@
-# djangoCrud
+# New Project
